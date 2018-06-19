@@ -7,4 +7,4 @@ slコマンド
 # 参考資料
 * https://ja.wikipedia.org/wiki/Sl_(UNIX)
 * https://github.com/mtoyoda/sl
-* (１分でできるSLコマンドインストール方法 on Mac](https://youtu.be/AKjPFW6eahI)
+* [１分でできるSLコマンドインストール方法 on Mac](https://youtu.be/AKjPFW6eahI)
