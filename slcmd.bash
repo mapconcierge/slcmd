@@ -1,2 +1,2 @@
-＃!/bin/sh
-sl -a
+#!/bin/sh
+banner -w 30 AGU
